@@ -20,8 +20,14 @@
   <img align="left" alt="Anita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
+
 <br />
 <br />
+
+<a href="https://github.com/anitakumarijena/anitakumarijena">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanirshad&show_icons=true&theme=dracula&line_height=27" alt="Github stats"/>
+</a>
 
 ### Languages and Tools:
 
