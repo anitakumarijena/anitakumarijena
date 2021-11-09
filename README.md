@@ -2,9 +2,9 @@
 
 
 
-
-- 🌱 I’m currently learning knime and computer vision
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👩‍💻I'm currently working on code speech switch model
+- 🌱 I’m currently learning machine learning algorithms and libraries 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and learning new technologies 
 
 
