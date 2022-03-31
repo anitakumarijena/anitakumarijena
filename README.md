@@ -1,4 +1,5 @@
-### Hi there, I'm Anita! 👋
+# Hi there, I'm Anita! <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">
+
 
 
 
@@ -8,7 +9,7 @@
 - ⚡ Fun fact: I love to dance and learning new technologies 
 
 
-### Connect with me:
+## 👇Connect with me👇
 
 <a href="https://www.linkedin.com/in/anitakumarijena/">
   <img align="left" alt="Anita's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,9 +26,14 @@
 <br />
 <br />
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/anitakumarijena/anitakumarijena">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anitakumarijena&show_icons=true&theme=dracula&line_height=27" alt="Github stats"/>
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitakumarijena&layout=compact&theme=tokyonight)
+--------
 
 ### Languages and Tools:
 
