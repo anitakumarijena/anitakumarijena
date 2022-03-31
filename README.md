@@ -4,7 +4,7 @@
 
 - 👩‍💻I'm currently working on code speech switch model
 - 🌱 I’m currently learning machine learning algorithms and libraries 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and learning new technologies 
 
 
